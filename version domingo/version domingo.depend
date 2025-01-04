@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731448636 source:c:\users\camiloide\desktop\nueva carpeta (2)\version domingo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	"funcionesbonzo.h"
+
+1731453774 c:\users\camiloide\desktop\nueva carpeta (2)\version domingo\funcionesbonzo.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+

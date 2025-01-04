@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730842966 source:c:\users\camiloide\desktop\nueva carpeta (2)\funcion nueva\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+

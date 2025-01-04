@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730860103 source:c:\users\camiloide\desktop\nueva carpeta (2)\trabajo integrador version 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
